@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "ce73d961a0b648a41a95a1a6fe72c486",
+    "pageAccessToken": "EAAXa9RZCLWS4BAO6T7m5QgUi7zLexpY8ogJrLeVazY4jabiZBjZBD0ZBcLqN1XGmCua9W2LnqrzSupot0fyjuyTbda085dBJWv6SLA7AnYfjYI4u1xoTv36d6pv7H1LFZAgCZCiL0S8ZBgBQM9cywXUEZAZAHHvGYOnZCCB9mmD9ZBFDQZDZD",
+    "validationToken": "the_albot_has_you_verify_me",
+    "serverURL": "https://dev.thereceptacle.co.uk/albot"
 }
